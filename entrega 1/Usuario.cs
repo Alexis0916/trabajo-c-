@@ -15,5 +15,18 @@ namespace entrega_1
         private string contraseña;
         private string mail;
 
+
+
+
+        public Usuario() { 
+        
+            id= 0;
+            nombre = "";
+            apellido= "";
+            nombreUsuario= "";
+            contraseña = "";
+            mail = "";
+        
+        }
     }
 }

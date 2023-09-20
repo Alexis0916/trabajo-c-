@@ -12,5 +12,22 @@ namespace entrega_1
         private double idProducto;
         private int stock;
         private int idVenta;
+
+
+
+
+        public ProductoVendido() { 
+        
+            id=0; 
+            idProducto=0;
+            stock=0;
+            idVenta=0;
+        
+        
+        }
+
+
+
+
     }
 }

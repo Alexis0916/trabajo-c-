@@ -11,5 +11,17 @@ namespace entrega_1
         private int id;
         private string comentarios;
         private int idUsuario;
+
+        public  Venta ()
+        {
+            id = 0;
+            comentarios= "";
+            id = 0;
+
+
+        }
+
+
+
     }
 }
